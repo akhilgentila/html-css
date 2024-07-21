@@ -1,0 +1,32 @@
+#outer{
+height: 200px;
+width: 70px;
+border: 2px solid black;
+
+}
+.inner{
+    height: 50px;
+    width: 50px;
+    border:2px solid black;
+    margin: 10px;
+    border-radius: 50%;
+
+}
+#red{
+    background-color: red;
+}
+#blue{
+background-color: blue;
+}
+#green{
+   background-color: green; 
+}
+h2{
+    display:inline;
+    background-color: red;
+
+}
+span{
+    display: block;
+    background-color: gray;
+}

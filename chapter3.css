@@ -1,0 +1,29 @@
+div{
+    height: 105px;
+    width: 90%;
+    border-width: 5px;
+    border-color: brown;
+    border-style: solid;
+    border-top-color: yellow;
+    border-top-style: solid;
+    border-radius: 30px;
+    padding: 10px;
+   padding-left: 10px;
+    padding-right: 10px;
+        margin-bottom:25px;
+        margin-left: 24px;
+}
+h1{
+    border-style: dotted;
+    border-color: black;
+    border:2px solid blue;
+}
+button{
+    border: solid;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgb(168, 160, 160);
+     
+
+}

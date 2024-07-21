@@ -1,0 +1,20 @@
+
+div{
+    font-size: 2rem;
+} 
+#div{
+    height: 200px;
+    width: 200px;
+    background-color: rgba(255, 0,0, .8);
+}
+#opacity{
+    height: 200px;
+    width: 200px;
+    background-color: rgba(185, 171, 171, 0.8);
+    opacity: .6;
+    
+}
+#opacity:active{
+    font-weight: bold;
+    color: brown;
+}
